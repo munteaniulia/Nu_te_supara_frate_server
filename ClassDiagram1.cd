@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Nu_te_supara_frate.Castig">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAAABAAAACBAAAiAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Castig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nu_te_supara_frate.Drum">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAACAAAAACAAAAgAgAACAAQBgAAAAAAA=</HashCode>
+      <FileName>Drum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nu_te_supara_frate.Galben">
+    <Position X="4" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACCAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Galben.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nu_te_supara_frate.Inreg">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAACAAAAIAAACAAAAiAAAAAIAEAEAAAIAQAAA=</HashCode>
+      <FileName>Inregistrare.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nu_te_supara_frate.Jucator">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAASACAAIAAAAAAAAAAAAAEAAAIAgAAAAAAAAA=</HashCode>
+      <FileName>Jucator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nu_te_supara_frate.Pioni">
+    <Position X="6.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAIIAAAAAAAAAgAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Pioni.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nu_te_supara_frate.Rosu">
+    <Position X="8.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rosu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nu_te_supara_frate.Tabla">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAFICIiDCgAKAAAAkfBxAAKQOAgIgBFgCSZC4ASQBA=</HashCode>
+      <FileName>Tabla.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nu_te_supara_frate.Zar">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAEAAAACAAAAAAQAAAAAAACABAAAAEAAA=</HashCode>
+      <FileName>Zar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
